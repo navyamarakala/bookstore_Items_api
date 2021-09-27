@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/navyamarakala/bookstore_users_API v0.0.0-20210926134832-629ea201dd83 h1:SFGvsLRvQnoGZ3ATYeCMcD1D53aTYfhpIu+Q4awLLbM=
+github.com/navyamarakala/bookstore_users_API v0.0.0-20210926134832-629ea201dd83/go.mod h1:12mdowTjYXHCftZ8sCP1ZH7081B4yqV9eN4treRBCYA=
